@@ -7,7 +7,7 @@ if a > 0 or b > 0:
 else:
     print("no number is greater than 0")
 
-    if b > 0 or c > 0:
+if b > 0 or c > 0:
         print("Either of the numbers is greater than 0")
-    else:
+else:
         print("No number is greater than 0")
